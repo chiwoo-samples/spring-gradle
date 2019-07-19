@@ -1,0 +1,10 @@
+debug: false
+
+server:
+  port: ${port:8080}
+
+
+spring:
+  application:
+    name: hello-gradle
+
