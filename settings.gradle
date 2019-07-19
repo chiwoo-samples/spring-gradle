@@ -3,4 +3,4 @@ pluginManagement {
         gradlePluginPortal()
     }
 }
-rootProject.name = 'hello-gradle'
+rootProject.name = 'spring-gradle'
